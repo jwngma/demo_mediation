@@ -69,6 +69,7 @@ dependencies:
   # Do NOT REMOVE THE ABOVE DEPENDENCIES,
   #I NEED THE FOR MY LIVE PROJECT, I AHVE ADDED THEM BECAUSE IT MAY CAUSE DEPENDENCIES ISSUE IN MY LIVE PROJECT WHEN I ADD YOU TASL,
   # Adde any dependenciew below, so that i dont get confused
+  flutter_ironsource_x: ^0.0.3
 
 
 

@@ -57,6 +57,13 @@ flutter {
 }
 
 dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.google.android.gms:play-services-ads-identifier:17.0.0'
+    implementation 'com.google.android.gms:play-services-basement:17.1.1'
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
     implementation 'com.android.support:multidex:1.0.3'
+    implementation 'com.ironsource.sdk:mediationsdk:7.0.4.1'
+    // Add AdMob and Ad Manager Network
+    implementation 'com.google.android.gms:play-services-ads:20.2.0'
+    implementation 'com.ironsource.adapters:admobadapter:4.3.15'
 }

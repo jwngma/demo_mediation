@@ -3,6 +3,9 @@ buildscript {
     repositories {
         google()
         jcenter()
+        maven {
+            url 'https://android-sdk.is.com/'
+        }
     }
 
     dependencies {

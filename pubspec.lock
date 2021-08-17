@@ -321,6 +321,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.1.2"
+  flutter_ironsource_x:
+    dependency: "direct main"
+    description:
+      name: flutter_ironsource_x
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.0.3"
   flutter_spinkit:
     dependency: "direct main"
     description:
